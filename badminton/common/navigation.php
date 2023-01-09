@@ -10,8 +10,6 @@
                 <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=products">Stages</a></li>
                 <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=store&day=&hours=">Créneaux</a></li>
             </ul>
-            <!-- <p class="note">Je suis sur la page </p> -->
-            <?php //echo $page; ?>
         </div>
     </div>
 </nav>

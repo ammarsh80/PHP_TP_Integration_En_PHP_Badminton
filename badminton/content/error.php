@@ -13,7 +13,6 @@
     <p>The page you're trying to reach doesn't exist!</p>
     <div class="go_back">
     <a href="index.php?page=home">Go back to home page </a>    
-    <!-- <a  class="go_back">Go back to home page</a></div> -->
 </div>
     
 </body>
